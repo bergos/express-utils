@@ -1,11 +1,8 @@
 {
   "name": "express-utils",
   "version": "0.0.1",
-  "description": "Express Utils",
+  "description": "Utils for express/connect",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
   "homepage": "https://github.com/bergos/express-utils",
   "repository": {
     "type": "git",
