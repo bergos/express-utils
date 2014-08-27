@@ -1,8 +1,11 @@
 {
   "name": "express-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Utils for express/connect",
   "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
   "homepage": "https://github.com/bergos/express-utils",
   "repository": {
     "type": "git",
@@ -21,6 +24,8 @@
     "url": "https://github.com/bergos/express-utils/issues"
   },
   "dependencies": {
-    "underscore": ">=1.5.0"
+  },
+  "devDependencies": {
+    "mocha": "=1.*"
   }
 }
