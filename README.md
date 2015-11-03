@@ -1,5 +1,7 @@
 # Utils for express/connect
 
+[![Join the chat at https://gitter.im/bergos/express-utils](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bergos/express-utils?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Some small utils for express/connect.
 
 ## absoluteUrl
